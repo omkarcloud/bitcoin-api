@@ -7,7 +7,7 @@ REST API to get the latest Bitcoin price in USD with 24-hour market data — dai
 - Get current Bitcoin price in USD with a single API call
 - 24-hour market data: daily high, low, volume, price change
 - No parameters required — just call the endpoint
-- 5,000 requests/month on free tier
+- 100 requests/month on free tier
 - 99.99% uptime SLA
 - Example Response:
 ```json
@@ -24,7 +24,7 @@ REST API to get the latest Bitcoin price in USD with 24-hour market data — dai
 
 ## Get API Key
 
-Create an account at [omkar.cloud](https://www.omkar.cloud/auth/sign-up?redirect=/api-key) to get your API key, and use it in requests. 5000 requests are free every month.
+Create an account at [omkar.cloud](https://www.omkar.cloud/auth/sign-up?redirect=/api-key) to get your API key, and use it in requests. 100 requests are free every month.
 
 ## Quick Start
 
@@ -169,10 +169,10 @@ elif response.status_code == 429:
 
 | Plan | Price | Requests/Month |
 |------|-------|----------------|
-| Free | $0 | 5,000 |
-| Starter | $25 | 100,000 |
-| Grow | $75 | 1,000,000 |
-| Scale | $150 | 10,000,000 |
+| Free | $0 | 100 |
+| Starter | $16 | 3,000 |
+| Grow | $48 | 15,000 |
+| Scale | $148 | 75,000 |
 
 ## Questions? We have answers.
 
