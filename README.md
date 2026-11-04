@@ -180,4 +180,4 @@ Reach out anytime. We will solve your query within 1 working day.
 
 [![Contact Us on WhatsApp about Bitcoin API](https://raw.githubusercontent.com/omkarcloud/assets/master/images/whatsapp-us.png)](https://www.omkar.cloud/l/bitcoin-api-github-whatsapp)
 
-[![Contact Us on Email about Bitcoin API](https://raw.githubusercontent.com/omkarcloud/assets/master/images/ask-on-email.png)](https://www.omkar.cloud/l/bitcoin-api-github-email)
+[![Contact Us on Email about Bitcoin API](https://raw.githubusercontent.com/omkarcloud/assets/master/images/ask-on-email.png)](mailto:happy.to.help@omkar.cloud?subject=Bitcoin%20API%20Question)
