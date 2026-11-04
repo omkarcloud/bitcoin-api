@@ -178,6 +178,6 @@ elif response.status_code == 429:
 
 Reach out anytime. We will solve your query within 1 working day.
 
-[![Contact Us on WhatsApp about Bitcoin API](https://raw.githubusercontent.com/omkarcloud/assets/master/images/whatsapp-us.png)](https://api.whatsapp.com/send?phone=918178804274&text=I%20have%20a%20question%20about%20the%20Bitcoin%20API.)
+[![Contact Us on WhatsApp about Bitcoin API](https://raw.githubusercontent.com/omkarcloud/assets/master/images/whatsapp-us.png)](https://www.omkar.cloud/l/bitcoin-api-github-whatsapp)
 
-[![Contact Us on Email about Bitcoin API](https://raw.githubusercontent.com/omkarcloud/assets/master/images/ask-on-email.png)](mailto:happy.to.help@omkar.cloud?subject=Bitcoin%20API%20Question)
+[![Contact Us on Email about Bitcoin API](https://raw.githubusercontent.com/omkarcloud/assets/master/images/ask-on-email.png)](https://www.omkar.cloud/l/bitcoin-api-github-email)
